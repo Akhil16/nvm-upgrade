@@ -140,4 +140,3 @@ Akhil chaturvedi + AI (perplexity)
 ---
 
 *Happy Node.js version management!* 🚀
-```
