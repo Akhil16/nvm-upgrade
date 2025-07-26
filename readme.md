@@ -1,6 +1,4 @@
-Certainly! Here's a comprehensive **README.md** file for your Node.js version and package management scripts repository, covering extraction, cleanup, and installation tasks with nvm and npm on Windows/macOS/Linux.
 
-```markdown
 # Node.js Version and Global Package Management Scripts
 
 This repository contains a set of **Bash scripts** to manage multiple Node.js versions and their global packages in environments using **nvm** (Node Version Manager), including `nvm-windows`. These scripts help you:
